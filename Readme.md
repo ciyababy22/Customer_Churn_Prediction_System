@@ -16,3 +16,5 @@ Predict which customers are likely to churn using historical data.
 ```bash
 git clone https://github.com/yourusername/customer-churn-prediction.git
 pip install -r requirements.txt
+
+## To run the code, go to Scripts folder , choose either deployment method Streamlit or FastAPI and run the scripts.
