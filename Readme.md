@@ -1,7 +1,12 @@
 # Customer Churn Prediction
 
 ## Overview
-Predict which customers are likely to churn using historical data.
+The Customer Churn Prediction System is a machine learning project that predicts whether a customer is likely to leave a service (churn) based on historical data.
+Goals:
+•	Identify potential churners before they leave.
+•	Allow businesses to take proactive measures (offers, engagement campaigns).
+•	Provide an interactive Streamlit frontend for user input.
+•	Provide a FastAPI backend for serving predictions via API.
 
 ## Dataset
 - Telco Customer Churn (IBM / Kaggle)
